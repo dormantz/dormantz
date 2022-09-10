@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dormantz
-- 👀 I’m interested in Crypto
-- 🌱 I’m currently working as an analyst
-- 💞️ I’m looking to collaborate on CI/CD and DevOps Security
-- 📫 How to reach me #cloud #sky
+- 👀 I'm supporting total privacy and decentralized economy
+- 🌱 Monero node operator
+- 💞️ Loves CI/CD and DevOps Security
+- 📫 Reach reach me out #cloud #sky
 
 <!---
 dormantz/dormantz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
