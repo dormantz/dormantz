@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dormantz
+## 👋 Hi, @dormantz here
 - 👀 I'm supporting total privacy and decentralized economy
 - 🌱 Monero node operator
 - 💞️ Loves CI/CD and DevOps Security
