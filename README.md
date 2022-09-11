@@ -1,8 +1,8 @@
 ## 👋 Hi, @dormantz here
 - 👀 I'm supporting total privacy and decentralized economy
 - :star: Monero node operator
-- 💞️ Loves CI/CD and DevOps Security
-- 📫 Reach reach me out #cloud #sky
+- 💞️ CI/CD and DevSecOps
+- 📫 Reach me out #cloud #sky
 
 <!---
 dormantz/dormantz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
